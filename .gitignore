@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.vscode
+.vscode/
 swift_f0_cpp/nuget_packages/
 .nuget_packages/
 env-swiftf0/
